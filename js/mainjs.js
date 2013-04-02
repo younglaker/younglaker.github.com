@@ -80,7 +80,7 @@
 		}
 
 		/*********************   conduct  *********************/
-/*		$(".scrolling_block3").hover(function(){
+		$(".scrolling_block3").hover(function(){
 			clearInterval(x);
 		},function(){
 			x=setInterval(
@@ -91,14 +91,14 @@
 				}, 4000
 			);
 		});
-*/
+
 /*		setInterval(
 			function() {
 				shining_stars(".star");
 			}, 4000
 		);*/
 
-/*
+
 		setInterval(
 			function() {
 				floatCloud("#cloud_5", "left", 50, 2000);
@@ -113,6 +113,6 @@
 			function() {
 				floatCloud("#cloud_1", "right", 40, 2500);
 			}, 2500
-		);*/
+		);
 
 	});
