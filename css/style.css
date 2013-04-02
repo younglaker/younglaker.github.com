@@ -1,0 +1,215 @@
+body {
+    background: url(../img/bg1.png) #EFEDDF center bottom repeat-x;
+    background-attachment: fixed;	
+}
+
+/***************************************************/
+.scrolling_container1, .scrolling_container2, .scrolling_container3 {
+	width: 100%;
+	position: absolute;
+}
+.scrolling_block1, .scrolling_block2, .scrolling_block3 {
+	width: 1024px;
+	margin: 0 auto;
+}
+.scrolling_container1 {
+	z-index: 10;
+	background: #ACDBE9;
+}
+.scrolling_container2 {
+	z-index: 20;
+}
+.scrolling_container3 {
+	z-index: 30;
+}
+.scrolling_block2 .img_list li img {
+	margin: 50px 0 0 30px;
+}
+.scrolling_block3 .img_list li img {
+	float: right;
+	margin: 50px 30px 0 0;
+}
+.pre, .next{
+	visibility: hidden;
+}
+.img_list {
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+	float: left;
+}
+.img_list ul{
+	width: 9999px; 
+}
+.img_list li {
+	width: 1024px;
+	float: left;
+	display: inline;
+}
+
+
+/***************************************************/
+.project_container {
+	width: 100%;
+	position: absolute;
+	margin-top: 400px;
+}
+.project_block {
+	width: 790px;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+.project_block ul {
+	margin-bottom: 40px;
+	box-shadow: 3px 3px 8px #CBC9C9;
+	border-radius: 10px;
+}
+.project_block ul li {
+	width: 750px;
+	min-height: 180px;
+	padding: 20px;
+	margin-bottom: 5px;
+	overflow: auto;
+	background: #FFFFFF;
+}
+.project_block ul li:first-child {
+	border-top-left-radius: 10px 10px;
+	border-top-right-radius: 10px 10px;
+}
+.project_block ul li:last-child {
+	border-bottom-left-radius: 10px 10px;
+	border-bottom-right-radius: 10px 10px;
+}
+.project_block ul li:hover {
+	background: #F5FAF5;
+}
+.project_block ul li img {
+	width: 367px;
+	float: left;
+	margin-right: 20px;
+	border: 2px dashed #7AA2AE;
+	border-radius: 10px 10px 10px 10px 
+}
+.project_block ul li h1 {
+	margin-bottom: 5px;
+	font-size: 20px;
+}
+.project_block ul li h1 a {
+	color: #1E91B3;
+}
+.project_block ul li h1 a:hover {
+	color: #2DBAE4;
+}
+.project_block ul li dl {
+	width: 355px;
+	float: left;
+	font-size: 14px;
+	line-height: 20px;
+}
+.project_block ul li dl dt {
+	width: 70px;
+	float: left;
+	margin-right: 5px;
+	text-align: right;
+}
+.project_block ul li dl dd {
+	width: 277px;
+	float: left;
+}
+
+
+
+/***************************************************/
+@-webkit-keyframes animate-bg {
+	0% {
+		background-position: 300px -300px;
+	}
+	100% {
+		background-position: 0 0;
+	}
+}
+@-moz-keyframes animate-bg {
+	0% {
+		background-position: 300px -300px;
+	}
+	100% {
+		background-position: 0 0;
+	}
+}
+.bg_moving {
+	width: 100%;
+	height: 300px;
+	position: relative;
+	z-index: 200;
+	background: url("../img/pattern.png");
+	background-color: #e4edf5;
+	-webkit-animation: animate-bg 18s linear;
+	-webkit-animation-iteration-count: infinite;
+	animation: animate-bg 18s linear;
+	animation-iteration-count: infinite;
+}
+
+
+
+
+/***************************************************/
+.bg_attachment {
+    width: 100%;
+    height: 1500px;
+    margin: auto;
+    overflow: hidden;
+}
+.bg1 {
+    background: url(../img/bg1.png) center bottom repeat-x;
+    background-attachment: fixed;
+}
+.bg2 {
+    background: url(../img/website_02.png) center center no-repeat;
+    background-attachment: fixed;
+}
+.bg3 {
+    background: url(../img/website_04.png) center center no-repeat;
+    background-attachment: fixed;
+}
+
+
+/*****************************************************/
+.floating-cloud{position:absolute;background:url(../img/illustration+header.png) no-repeat 0 0}
+#cloud_1{width:198px;height:107px;top:340px;background-position:0 0;z-index:13}
+#cloud_2{width:135px;height:72px;top:340px;background-position:0 -107px;z-index:15}
+#cloud_5{width:158px;height:85px;top:400px;background-position:0 -235px;z-index:10}
+#cloud_6{width:135px;height:73px;top:360px;background-position:0 -320px;z-index:13}
+
+.floating-cloud a {
+	display: block;
+	width: 100%;
+	text-align: center;
+	position: relative;
+}
+#cloud_1 {
+	right: 10px;
+	text-align: center;
+}
+#cloud_1 a{
+	margin-top: 60px;
+	font-size: 24px;
+}
+#cloud_2 a{
+	margin-top: 30px;
+	font-size: 20px;
+}
+#cloud_5 a{
+	margin-top: 40px;
+	font-size: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
