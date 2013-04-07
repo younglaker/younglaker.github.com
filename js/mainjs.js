@@ -1,11 +1,12 @@
 
 	$(document).ready(function() {
-/*		var window_width = $(window).width();
+		var window_width = $(window).width();
+		var window_height = $(window).height();
 		$(".img_list1 li, .img_list2 li").css("width", window_width);
 
 		function ParallaxScrolling (distance, speed) {
 			// body...
-		}*/
+		}
 
 		/*********************   Imgscroll  *********************/
 		function imgScroll(wraper, speed){
