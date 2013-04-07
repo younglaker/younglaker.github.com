@@ -123,14 +123,24 @@ body {
 	font-size: 14px;
 	line-height: 20px;
 }
-.ul_block ul.intro_project li dl dt {
+.ul_block ul.intro_project li dl.dl_style_01 dt {
 	width: 70px;
 	float: left;
 	margin-right: 5px;
 	text-align: right;
 }
-.ul_block ul.intro_project li dl dd {
+.ul_block ul.intro_project li dl.dl_style_01 dd {
 	width: 350px;
+	float: left;
+}
+.ul_block ul.intro_project li dl.dl_style_02 dt {
+	width: 115px;
+	float: left;
+	margin-right: 5px;
+	text-align: right;
+}
+.ul_block ul.intro_project li dl.dl_style_02 dd {
+	width: 315px;
 	float: left;
 }
 h1.title {
@@ -141,7 +151,6 @@ h1.title {
 	font-size: 18px;
 	font-weight: 600;
 }
-
 
 /***************************************************/
 @-webkit-keyframes animate-bg {
@@ -209,24 +218,24 @@ h1.title {
 
 /************************  mary animation  ********************************/
 @keyframes mary_move{
-	0%{bottom: 30px; left: 188px;}
-	50%{bottom: 40px; left: 188px;}
-	100%{bottom: 30px; left: 188px;}
+	0%{bottom: 30px; left: 175px;}
+	50%{bottom: 40px; left: 175px;}
+	100%{bottom: 30px; left: 175px;}
 }
 @-webkit-keyframes mary_move{
-	0%{bottom: 30px; left: 188px;}
-	50%{bottom: 40px; left: 188px;}
-	100%{bottom: 30px; left: 188px;}
+	0%{bottom: 30px; left: 175px;}
+	50%{bottom: 40px; left: 175px;}
+	100%{bottom: 30px; left: 175px;}
 }
 @-moz-keyframes mary_move{
-	0%{bottom: 30px; left: 188px;}
-	50%{bottom: 40px; left: 188px;}
-	100%{bottom: 30px; left: 188px;}
+	0%{bottom: 30px; left: 175px;}
+	50%{bottom: 40px; left: 175px;}
+	100%{bottom: 30px; left: 175px;}
 }
 @-o-keyframes mary_move{
-	0%{bottom: 30px; left: 188px;}
-	50%{bottom: 40px; left: 188px;}
-	100%{bottom: 30px; left: 188px;}
+	0%{bottom: 30px; left: 175px;}
+	50%{bottom: 40px; left: 175px;}
+	100%{bottom: 30px; left: 175px;}
 }
 .super_mary{
 	width: 30px;
