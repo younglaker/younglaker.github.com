@@ -81,6 +81,14 @@
 		}
 
 		/*********************   conduct  *********************/
+		var x=setInterval(
+			function() {
+				imgScroll('.scrolling_block1', 400);
+				imgScroll('.scrolling_block2', 1000);
+				imgScroll('.scrolling_block3', 600);
+			}, 4000
+		);
+
 		$(".scrolling_block3").hover(function(){
 			clearInterval(x);
 		},function(){
