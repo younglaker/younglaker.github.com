@@ -52,36 +52,39 @@
 	    }
 
 		/*********************   cloud  *********************/
-		function floatCloud (cloud, direction, distance, speed) {
+		function floatCloud (cloud, direction, position, distance, speed) {
 			var cloud = $(cloud);
 
 			cloud.mouseenter(function(){
 				cloud.stop();
 			});
 
-			if(direction == "right"){
-				cloud.animate({
-					'right': +distance
-					}, speed
-				).animate({
-					'right': 0
-					}, speed
-				);
+			switch(direction) {
+				case "right": 
+							cloud.animate({
+								'margin-right': position + distance
+								}, speed
+							).animate({
+								'margin-right': position
+								}, speed
+							);
+							break;
+				case "left":
+							cloud.animate({
+								'margin-left': position + distance
+								}, speed
+							).animate({
+								'margin-left': position
+								}, speed
+							);
+							break;
 			}
-			if(direction == "left"){
-				cloud.animate({
-					'left': +distance
-					}, speed
-				).animate({
-					'left': 0
-					}, speed
-				);
-			}
+
 
 		}
 
 		/*********************   conduct  *********************/
-		var x=setInterval(
+/*		var x=setInterval(
 			function() {
 				imgScroll('.scrolling_block1', 400);
 				imgScroll('.scrolling_block2', 1000);
@@ -99,7 +102,7 @@
 					imgScroll('.scrolling_block3', 600);
 				}, 4000
 			);
-		});
+		});*/
 
 /*		setInterval(
 			function() {
@@ -110,17 +113,17 @@
 
 		setInterval(
 			function() {
-				floatCloud("#cloud_5", "left", 50, 2000);
+				floatCloud("#cloud_5", "left", 0, 50, 2000);
 			}, 2000
 		);
 		setInterval(
 			function() {
-				floatCloud("#cloud_2", "left", 200, 4000);
+				floatCloud("#cloud_2", "left", 20, 200, 4000);
 			}, 4000
 		);
 		setInterval(
 			function() {
-				floatCloud("#cloud_1", "right", 40, 2500);
+				floatCloud("#cloud_1", "right", 0, 40, 2500);
 			}, 2500
 		);
 
