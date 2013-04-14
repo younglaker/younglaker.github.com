@@ -56,6 +56,7 @@
 			ctx_star.save();
 			ctx_star.beginPath();
 			ctx_star.arc(star.x, star.y, star.radius, 0, 2 * pi, true);
+			// ctx_star.createLinearGradient(star.radius / 2, star.radius / 2,)
 			ctx_star.fill();
 			ctx_star.restore();
         }
