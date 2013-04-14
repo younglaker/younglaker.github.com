@@ -4,9 +4,6 @@
 		var window_height = $(window).height();
 		$(".img_list1 li, .img_list2 li").css("width", window_width);
 
-		function ParallaxScrolling (distance, speed) {
-			// body...
-		}
 
 		/*********************   Imgscroll  *********************/
 		function imgScroll(wraper, speed){
@@ -25,7 +22,7 @@
 
 
 		/*********************   shining_stars  *********************/
-		function shining_stars(star) {
+		function shiningStars(star) {
 			var position_x = randomNum(0, 1200, "float");
 			var position_y = randomNum(0, 900, "float");
 			$(".star").css({
@@ -106,7 +103,7 @@
 
 /*		setInterval(
 			function() {
-				shining_stars(".star");
+				shiningStars(".star");
 			}, 4000
 		);*/
 
