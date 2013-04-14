@@ -81,7 +81,7 @@
 		}
 
 		/*********************   conduct  *********************/
-/*		var x=setInterval(
+		var x=setInterval(
 			function() {
 				imgScroll('.scrolling_block1', 400);
 				imgScroll('.scrolling_block2', 1000);
@@ -99,7 +99,7 @@
 					imgScroll('.scrolling_block3', 600);
 				}, 4000
 			);
-		});*/
+		});
 
 /*		setInterval(
 			function() {
