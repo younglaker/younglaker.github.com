@@ -97,7 +97,7 @@ body {
 	float: left;
 	margin-right: 20px;
 	border: 2px dashed #7AA2AE;
-	border-radius: 10px 10px 10px 10px 
+	border-radius: 10px;
 }
 .ul_block ul li h1 {
 	margin-bottom: 5px;
@@ -163,7 +163,16 @@ h1.title {
 	font-weight: 600;
 }
 
-/***************************************************/
+
+/******************     loating_cloud animation   **************************/
+.footer {
+	width: 100%;
+	background: #fff;
+	border-radius: 10px;
+}
+
+
+/********************** bg_moving  *****************************/
 @-webkit-keyframes animate-bg {
 	0% {
 		background-position: 300px -300px;
@@ -192,7 +201,6 @@ h1.title {
 	animation: animate-bg 18s linear;
 	animation-iteration-count: infinite;
 }
-
 
 
 /******************     loating_cloud animation   **************************/
