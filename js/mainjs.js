@@ -77,20 +77,20 @@
 		);*/
 
 
-		// setInterval(
-		// 	function() {
-		// 		floatCloud("#cloud_5", "left", 0, 50, 2000);
-		// 	}, 2000
-		// );
-		// setInterval(
-		// 	function() {
-		// 		floatCloud("#cloud_2", "left", 20, 200, 4000);
-		// 	}, 4000
-		// );
-		// setInterval(
-		// 	function() {
-		// 		floatCloud("#cloud_1", "right", 0, 40, 2500);
-		// 	}, 2500
-		// );
+		setInterval(
+			function() {
+				floatCloud("#cloud_5", "left", 0, 50, 2000);
+			}, 2000
+		);
+		setInterval(
+			function() {
+				floatCloud("#cloud_2", "left", 20, 200, 4000);
+			}, 4000
+		);
+		setInterval(
+			function() {
+				floatCloud("#cloud_1", "right", 0, 40, 2500);
+			}, 2500
+		);
 
 	});
