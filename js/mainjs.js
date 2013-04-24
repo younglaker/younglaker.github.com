@@ -50,7 +50,7 @@
 		}
 
 		/*********************   conduct  *********************/
-        var x=setInterval(
+        var x = setInterval(
             function() {
                 $(".scrolling_block1").imgScroll({direction: "to_right", speed: 400});
                 $(".scrolling_block2").imgScroll({direction: "to_right", speed: 1000});
