@@ -12,8 +12,8 @@
 			var coordinate_y = randomNum(0, 900, "float");
 			$(".star").css({
 				"position": "absolute",
-				"top": coordinate_x,
-				"left": coordinate_y
+				"top"     : coordinate_x,
+				"left"    : coordinate_y
 				}).hide().fadeIn(1000).delay(1000).fadeOut(1000);
 		};
 
