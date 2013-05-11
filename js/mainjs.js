@@ -93,7 +93,7 @@
 			}, 2500
 		);
 
-$("img").lazyload({
+$("img.lazy").lazyload({
      effect: "fadeIn"
  });
 
