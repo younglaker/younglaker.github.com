@@ -93,4 +93,8 @@
 			}, 2500
 		);
 
+$("img").lazyload({
+     effect: "fadeIn"
+ });
+
 	});
