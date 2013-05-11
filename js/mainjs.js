@@ -95,7 +95,7 @@
 
 		$("img.lazy").lazyload({
 			effect: "fadeIn",
-			threshold : 200
+			threshold : 400
 		});
 
 	});
