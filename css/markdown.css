@@ -48,8 +48,8 @@ line-height:1em;
 }
 h4,h5,h6{ font-weight: bold; }
 h1{ font-size:2.5em; }
-h2{ font-size:2em; border-bottom:1px solid silver; padding-bottom: 5px; }
-h3{ font-size:1.5em; }
+h2{ font-size:24px; border-bottom:1px solid silver; padding-bottom: 5px; }
+h3{ font-size:18px; }
 h4{ font-size:1.2em; }
 h5{ font-size:1em; }
 h6{ font-size:0.9em; }
@@ -88,6 +88,7 @@ sup { top: -0.5em; }
 sub { bottom: -0.25em; }
 
 ul, ol { margin: 1em 0; padding: 0 0 0 2em; }
+li { font-size: 14px; }
 li p:last-child { margin:0 }
 dd { margin: 0 0 0 2em; }
 
