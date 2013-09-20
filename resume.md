@@ -53,7 +53,7 @@
 【CoffeeScript, jquery】Bootstrap2表单检测插件。
 * __[Photo You](http://photoyou.gopagoda.com/ "Photo You")__:（请翻墙） 	
 【HTML5, JS, Google Speech】基于浏览器的照相应用，用Chrome可使用语音照相。
-* __[乐活]()__: (在建中) 	
+* __[乐活](http://act.stuzone.com/ "Lehuo")__: (在建中) 	
 【JS, PHP】为中南民大服务的活动分享网站。
 
 ***
