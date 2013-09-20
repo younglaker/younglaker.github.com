@@ -1,5 +1,7 @@
 ## 黄绮 Laker Huang
 
+![Me](./img/me.jpg)
+
 ### 基本信息
 
 * __学历__：14届本科生
@@ -9,7 +11,7 @@
 
 ### 求职意向
 
-* web前端开发js方向，乐意学习后端技能、尝试各方面技术
+* web前端开发js方向，乐意学习后端技能、尝试各方面技术。
 
 ### 常逛社区
 
@@ -53,3 +55,7 @@
 【HTML5, JS, Google Speech】基于浏览器的照相应用，用Chrome可使用语音照相。
 * __[乐活]()__: (在建中) 	
 【JS, PHP】为中南民大服务的活动分享网站。
+
+***
+
+Suported by [Sublimetext Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
