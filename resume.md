@@ -1,3 +1,4 @@
+<meta charset="utf-8">
 ## 黄绮 Laker Huang
 
 ### 基本信息
@@ -41,7 +42,7 @@
 
 * __[Brothers Bridge Technology](http://www.bbtechgroup.com/)__: 	
 2012.11-2013.4	
-前端开发程序员。一家中美合资公司。负责公司官网及其下属APP产品的web官网的web端开发。学会团队开发流程、代码规范扩、跨国合作等。
+前端开发程序员。一家中美合资公司。负责公司官网及其下属APP产品的web官网的web端开发。学会团队开发流程、代码规范、跨国合作等。
 
 ### 项目经历
 
