@@ -1,6 +1,8 @@
 ## 黄绮 Laker Huang
 
-![Me](./img/me.jpg)
+![Me](img/me.jpg)
+
+[下载PDF版](黄绮的简历.zip "下载PDF版")
 
 ### 基本信息
 
