@@ -27,11 +27,10 @@
 * __HTML(5)/CSS(3)__: 熟练网页重构，保证兼容性。用HTML5开发过地图插件（结合 Google Business Map）、照相应用、canvas动画。
 * __JavaScript__: 熟练手写原生JS。仿jquery写过小框架[OctJs](https://github.com/younglaker/octjs "OctJs")。
 * __PHP__: 用CI做过项目，了解后台MVC。
-* __Python__: 了解基本语法，正努力深入学习。
 * __CoffeeScript__: 开发过Bootstrap2表单插件[Escort-form-validation](https://github.com/younglaker/Escort-form-validation "Escort-form-validation")。
 * __SASS__: 基本的使用。
 * __Photoshop__: 简单鼠绘，图签、海报制作。
-* __其他__: 学习过C、C++、SQL、Java、C#。正在学习Emberjs。
+* __其他__: 学习过C、C++、SQL、Java、C#。正在努力学习Emberjs、Python。
 * __工具__：Git，sublime，chrome等。
 
 ### 比赛经历
