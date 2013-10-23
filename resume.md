@@ -60,6 +60,13 @@
 * __[H5-Media](https://github.com/younglaker/H5-Media "H5-Media")__:	
 <2013.9>【HTML5, CoffeeScript】通过浏览器调用摄像头的插件，可拍照。
 
+### 关于梦想
+
+* 一个热爱互联网的小青年，可以为了编程废寝忘食，喜欢开源，喜欢探索新事物
+* 写代码能让我的生活有意思，也希望我的代码能让更多人的生活有意思
+* 我会在深入学习前端技术的同时，不断探索各方面的技术
+* 我相信，女生也能写出好代码、做出好产品！
+
 ***
 
 Powered by [Sublimetext Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
