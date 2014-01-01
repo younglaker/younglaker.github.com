@@ -7,8 +7,6 @@
 ### 基本信息
 
 * __学历__：14届本科生
-* __性别__：妹纸
-* __联系电话__：132,9790,3677
 * __邮箱__：younglaker8@gmail.com
 
 ### 求职意向
@@ -46,6 +44,10 @@
 * __[Brothers Bridge Technology](http://www.bbtechgroup.com/)__: 	
 2012.11-2013.4	
 前端开发程序员。一家中美合资公司。负责公司官网及其下属APP产品的web官网的web端开发。学会团队开发流程、代码规范、跨国合作等。
+
+* __[SegmentFault](http://segmentfault.com/)__: 	
+2013.11-
+前端打杂
 
 ### 项目经历
 
