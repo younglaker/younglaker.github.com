@@ -18,8 +18,9 @@
 * __[Blog](http://www.cnblogs.com/younglaker/ "My blog")__: 分享技术学习心得、记录生活感悟。
 * __[Google+](https://plus.google.com/u/0/117680685769153571568/posts "My Google+")__: 看世界、记录生活的碎碎念。
 * __[Github](https://github.com/younglaker "My Github")__: 了解技术发展方向、有意思的开源项目，自己尝试写点项目。
+* __[SegmentFault](http://segmentfault.com/u/younglaker)__: 用自己的知识帮助别人解决问题，也学习别人的知识，在问题中成长。
 * __[Weibo](http://weibo.com/shaojianghu/ "My Weibo")__: 了解国内新闻、和朋友玩乐。
-* __[Douban](http://book.douban.com/people/younglaker/ "My Douban")__: 作为网络书柜。
+* __[Douban](http://www.douban.com/people/younglaker/ "My Douban")__: 作为网络书柜和电影库。
 * __其他闲逛__: 果壳，知乎，V2EX，StackOverflow等。
 
 ### 技能树
@@ -69,6 +70,3 @@
 * 我会在深入学习前端技术的同时，不断探索各方面的技术
 * 我相信，女生也能写出好代码、做出好产品！
 
-***
-
-Powered by [Sublimetext Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
