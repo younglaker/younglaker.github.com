@@ -13,9 +13,9 @@ body{
   outline: 1300px solid #FAFAFA;
 }
 
-a{ color: #0645ad; text-decoration:none;}
-a:visited{ color: #0b0080; }
-a:hover{ color: #06e; }
+a{ color: #0A5DCA; text-decoration:none;}
+/*a:visited{ color: #0b0080; }*/
+a:hover{ color: #287FF1; }
 a:active{ color:#faa700; }
 a:focus{ outline: thin dotted; }
 a:hover, a:active{ outline: 0; }
