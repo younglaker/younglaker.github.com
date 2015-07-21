@@ -5,7 +5,7 @@ var canvas;
 var con;
 var g;
 var pxs = new Array();
-var rint = 60;
+var rint = 100; // 刷新时间
 
 function draw() {
     con.clearRect(0,0,win_width,win_height);
@@ -73,7 +73,7 @@ $(document).ready(function(){
     canvas = document.getElementById('twinkleStar');
     $("#twinkleStar").width(win_width).height(win_height);
     con = canvas.getContext('2d');
-    for(var i = 0; i < 500; i++) {
+    for(var i = 0; i < 700; i++) { //星星数目
         pxs[i] = new Circle();
         pxs[i].reset();
     }

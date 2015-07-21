@@ -1,0 +1,52 @@
+/************************    main  ***********************/
+body {
+	background:-o-linear-gradient(top, #040429, #257eb7);
+	background:-ms-linear-gradient(top, #040429, #257eb7);
+	background:-moz-linear-gradient(top, #040429, #257eb7);
+	background:-webkit-linear-gradient(top, #040429, #257eb7);
+	background:linear-gradient(top, #040429, #257eb7);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#040429', EndColorStr='#257eb7');
+	-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorStr='#040429', EndColorStr='#257eb7')";
+    background-attachment: fixed;
+}
+.container {
+	width: 300px;
+	height: 200px;
+	/*background: rgba(255, 255, 255, 0.8);*/
+	margin: auto;
+	margin-top: -100px;
+	margin-left: -150px;
+	position: absolute;
+	z-index: 99;
+	top: 50%;
+	left: 50%;
+	border-radius: 5px;
+	/*box-shadow: 3px 3px 10px #DDDCDC;*/
+	text-align: center;
+}
+.title {
+	color: #F9FBBA;
+	font-weight: 600;
+	font-size: 30px;
+	letter-spacing: 2px;
+	text-shadow: 2px 2px 5px #E4E4E4;
+	margin-bottom: 25px;
+}
+.links li {
+	margin: 20px 0;
+}
+.links li a {
+	color: #EDEDEA;
+	padding-bottom: 5px;
+}
+.links li a:hover {
+	border-bottom: 1px dotted #fff;
+}
+
+/************************    twinkleStar  ***********************/
+
+#twinkleStar {
+	position: fixed;
+	z-index: -50;
+	top: 0;
+}
