@@ -13,7 +13,7 @@ body{
   outline: 1300px solid #FAFAFA;
 }
 
-a{ color: #0A5DCA; text-decoration:none;}
+a{ color: #0A5DCA; text-decoration:none; margin-right: 5px;}
 /*a:visited{ color: #0b0080; }*/
 a:hover{ color: #287FF1; }
 a:active{ color:#faa700; }
